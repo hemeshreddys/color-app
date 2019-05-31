@@ -2,7 +2,7 @@
   "name": "color-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://hemeshreddys.github.io/color-app",
+  "homepage": "https://hemeshreddys.github.io/color-app",
   "dependencies": {
     "add": "^2.0.6",
     "gh-pages": "^2.0.1",
