@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/color-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/color-app/static/js/main.507fbf16.chunk.js",
+    "main.js.map": "/color-app/static/js/main.507fbf16.chunk.js.map",
+    "runtime~main.js": "/color-app/static/js/runtime~main.bf85e199.js",
+    "runtime~main.js.map": "/color-app/static/js/runtime~main.bf85e199.js.map",
+    "static/js/2.2ba7bb5e.chunk.js": "/color-app/static/js/2.2ba7bb5e.chunk.js",
+    "static/js/2.2ba7bb5e.chunk.js.map": "/color-app/static/js/2.2ba7bb5e.chunk.js.map",
+    "index.html": "/color-app/index.html",
+    "precache-manifest.b5c45c0cf80ba6a363ef7288ac882de4.js": "/color-app/precache-manifest.b5c45c0cf80ba6a363ef7288ac882de4.js",
+    "service-worker.js": "/color-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/color-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/color-app/static/media/logo.5d5d9eef.svg"
+  }
+}
